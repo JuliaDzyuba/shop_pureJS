@@ -26,22 +26,22 @@ const generateFooter = () => {
                         <div class="footer-about">
                             <h2 class="footer-header">Все о нас</h2>
                             <ul>
-                                <li class="footer-list"><a href="#">О компании</a></li>
-                                <li class="footer-list"><a href="#">Демократичный дизайн</a></li>
-                                <li class="footer-list"><a href="#">Работа у нас</a></li>
-                                <li class="footer-list"><a href="#">Люди и планета</a></li>
+                                <li class="footer-list"><a href="index.html">О компании</a></li>
+                                <li class="footer-list"><a href="index.html">Демократичный дизайн</a></li>
+                                <li class="footer-list"><a href="index.html">Работа у нас</a></li>
+                                <li class="footer-list"><a href="index.html">Люди и планета</a></li>
                             </ul>
                         </div>
                         <div class="footer-connection">
                             <h2 class="footer-header">Свяжитесь с нами</h2>
                             <ul>
-                                <li class="footer-list"><a href="#">Обратная связь</a></li>
-                                <li class="footer-list"><a href="#">Контакты</a></li>
-                                <li class="footer-list"><a href="#">Магазины и студии</a></li>
-                                <li class="footer-list"><a href="#">Землевладельцам</a></li>
-                                <li class="footer-list"><a href="#">Поставщикам</a></li>
-                                <li class="footer-list"><a href="#">Пресс-служба</a></li>
-                                <li class="footer-list"><a href="#">Вопросы и ответы</a></li>
+                                <li class="footer-list"><a href="index.html">Обратная связь</a></li>
+                                <li class="footer-list"><a href="index.html">Контакты</a></li>
+                                <li class="footer-list"><a href="index.html">Магазины и студии</a></li>
+                                
+                                <li class="footer-list"><a href="index.html">Поставщикам</a></li>
+                                <li class="footer-list"><a href="index.html">Пресс-служба</a></li>
+                                <li class="footer-list"><a href="index.html">Вопросы и ответы</a></li>
                             </ul>
                         </div>
                     </div>
